@@ -1,0 +1,3 @@
+c:\users\jcvm756\documents\visual studio 2013\Projects\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe.config
+c:\users\jcvm756\documents\visual studio 2013\Projects\Ejercicios\Ejercicios\obj\Debug\Ejercicios.exe
+c:\users\jcvm756\documents\visual studio 2013\Projects\Ejercicios\Ejercicios\obj\Debug\Ejercicios.pdb

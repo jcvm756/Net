@@ -1,0 +1,6 @@
+C:\Users\JCVM756\documents\visual studio 2013\Projects\Ejercicios\Ejercicio 4\bin\Debug\Ejercicio 4.exe.config
+C:\Users\JCVM756\documents\visual studio 2013\Projects\Ejercicios\Ejercicio 4\bin\Debug\Ejercicio 4.exe
+C:\Users\JCVM756\documents\visual studio 2013\Projects\Ejercicios\Ejercicio 4\bin\Debug\Ejercicio 4.pdb
+C:\Users\JCVM756\documents\visual studio 2013\Projects\Ejercicios\Ejercicio 4\obj\Debug\Ejercicio 4.csprojResolveAssemblyReference.cache
+C:\Users\JCVM756\documents\visual studio 2013\Projects\Ejercicios\Ejercicio 4\obj\Debug\Ejercicio 4.exe
+C:\Users\JCVM756\documents\visual studio 2013\Projects\Ejercicios\Ejercicio 4\obj\Debug\Ejercicio 4.pdb
